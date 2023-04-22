@@ -1,0 +1,23 @@
+﻿  ооп лаба 7.cpp
+D:\PROJECTS\ооп лаба 7\ооп лаба 7\Vector.h(68,1): error C2679: бинарный "+": не найден оператор, принимающий правый операнд типа "const T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=Time
+          ]
+D:\PROJECTS\ооп лаба 7\ооп лаба 7\Time.h(15,7): message : может быть "Time Time::operator +(Time &)"
+D:\PROJECTS\ооп лаба 7\ооп лаба 7\Vector.h(68,1): message : при попытке сопоставить список аргументов "(T, const T)"
+          with
+          [
+              T=Time
+          ]
+D:\PROJECTS\ооп лаба 7\ооп лаба 7\Vector.h(65): message : во время компиляции функции-члена класс шаблон "Vector<Time> Vector<Time>::operator +(const T)"
+          with
+          [
+              T=Time
+          ]
+D:\PROJECTS\ооп лаба 7\ооп лаба 7\ооп лаба 7.cpp(33): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Time> Vector<Time>::operator +(const T)"
+          with
+          [
+              T=Time
+          ]
+D:\PROJECTS\ооп лаба 7\ооп лаба 7\ооп лаба 7.cpp(24): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
