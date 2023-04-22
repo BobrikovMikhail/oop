@@ -1,0 +1,3 @@
+﻿  vector.cpp
+D:\PROJECTS\ооп лаба 6\ооп лаба 6\vector.cpp(37): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  ооп лаба 6.vcxproj -> D:\PROJECTS\ооп лаба 6\x64\Debug\ооп лаба 6.exe
