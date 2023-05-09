@@ -1,0 +1,3 @@
+﻿  zadacha 3.cpp
+D:\PROJECTS\oop 11\zadacha 3\zadacha 3.cpp(27,15): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  zadacha 3.vcxproj -> D:\PROJECTS\oop 11\x64\Debug\zadacha 3.exe

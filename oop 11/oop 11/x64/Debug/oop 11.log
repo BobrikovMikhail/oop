@@ -1,0 +1,3 @@
+﻿  oop 11.cpp
+D:\PROJECTS\oop 11\oop 11\oop 11.cpp(56,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  oop 11.vcxproj -> D:\PROJECTS\oop 11\x64\Debug\oop 11.exe

@@ -1,0 +1,6 @@
+﻿  zadacha 5.cpp
+D:\PROJECTS\oop 11\zadacha 5\Vector.h(43,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PROJECTS\oop 11\zadacha 5\Vector.h(36): message : во время компиляции функции-члена класс шаблон "Vector<int>::Vector(int)"
+D:\PROJECTS\oop 11\zadacha 5\zadacha 5.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int>::Vector(int)"
+D:\PROJECTS\oop 11\zadacha 5\zadacha 5.cpp(17): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<int>"
+  zadacha 5.vcxproj -> D:\PROJECTS\oop 11\x64\Debug\zadacha 5.exe

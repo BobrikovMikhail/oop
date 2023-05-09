@@ -1,0 +1,29 @@
+﻿  zadacha_3.cpp
+D:\PROJECTS\ооп лаба 12\zadacha_3\zadacha_3.cpp(18,9): warning C4101: index: неиспользованная локальная переменная
+D:\PROJECTS\ооп лаба 12\zadacha_3\Vector.h(43,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PROJECTS\ооп лаба 12\zadacha_3\Vector.h(36): message : во время компиляции функции-члена класс шаблон "Vector<int>::Vector(int)"
+D:\PROJECTS\ооп лаба 12\zadacha_3\zadacha_3.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int>::Vector(int)"
+D:\PROJECTS\ооп лаба 12\zadacha_3\zadacha_3.cpp(20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<int>"
+D:\PROJECTS\ооп лаба 12\zadacha_3\Vector.h(69,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PROJECTS\ооп лаба 12\zadacha_3\Vector.h(68): message : во время компиляции функции-члена класс шаблон "void Vector<int>::add(T)"
+          with
+          [
+              T=int
+          ]
+D:\PROJECTS\ооп лаба 12\zadacha_3\zadacha_3.cpp(25): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::add(T)"
+          with
+          [
+              T=int
+          ]
+D:\PROJECTS\ооп лаба 12\zadacha_3\Vector.h(76,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PROJECTS\ооп лаба 12\zadacha_3\Vector.h(75): message : во время компиляции функции-члена класс шаблон "void Vector<int>::del(T)"
+          with
+          [
+              T=int
+          ]
+D:\PROJECTS\ооп лаба 12\zadacha_3\zadacha_3.cpp(29): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<int>::del(T)"
+          with
+          [
+              T=int
+          ]
+  zadacha_3.vcxproj -> D:\PROJECTS\ооп лаба 12\x64\Debug\zadacha_3.exe
